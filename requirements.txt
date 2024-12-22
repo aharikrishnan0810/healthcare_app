@@ -1,4 +1,4 @@
-pip== 24.3.1
+pip==24.3.1
 streamlit==1.25.0    # Ensure compatibility with your Streamlit code
 numpy==1.25.0        # For numerical operations
 pandas==2.1.1        # For handling the dataset
